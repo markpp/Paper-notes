@@ -2,7 +2,6 @@
 [arXiv](https://arxiv.org/abs/1511.06581)
 
 ### Implementation
-Original caffe Implementation
 [TensorFlow implementations of DRL papers](https://github.com/carpedm20/deep-rl-tensorflow)
 
 ### What
