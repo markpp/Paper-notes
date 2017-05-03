@@ -1,19 +1,28 @@
-# Enabling Robots to Communicate their Objectives
-[arXiv](https://arxiv.org/abs/1702.03465)
+# It Takes Two to Tango: Towards Theory of AI's Mind
+[arXiv](https://arxiv.org/abs/1704.00717)
 
 ### Implementation
-
+[online test system](https://deshraj.github.io/TOAIM/)
 
 ### What
-- How to enable users to anticipate the robot's behavior?
-- The human will naturally develop an understanding of the robot's behavior over time, by observing it's actions, but it may be a lengthy process.
-
+- 
 ### How
-- They propose that the user should have a mental model of the robot's objective function, which should enable the user to understand and predict the robot's actions. By this they don't mean memorizing or understanding the equations but more in the sense of whether the robot will tend to be e.g. aggressive or defensive in solving it's tasks.
-- The speed up the creation of a persons mental model of the robot objectives by infering the most informative behavior. This is done using inverse reinforcement learning, which lets us infer objective functions from human behavior. 
-
+- 
 ### Experiments
-- An example is conducted in the autonomous driving domain.
+- 
+
+1. Overall rating of the paper
+Accept/Weak accept/Borderline/Weak reject/Reject
+         
+2. Summary of the paper (2-3 sentences)
+        
+3. Main strengths of the paper (item list)
+        
+4. Main weaknesses of the paper (item list)
+        
+5. Detailed comments (errors, missing references, suggestions for improvement, etc.)
+        
+6. Organization, clarity, language/grammar
 
 
 Communication of intentions is important for insuring, comfort, better coordiantion when collaborating with the robot or working in it's vesinity.
