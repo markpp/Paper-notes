@@ -1,4 +1,4 @@
-# Manufacturing technology in the Danish pig slaughter industry
+# Review: Automation and meat quality-global challenges
 
 ### Implementation
 
@@ -10,4 +10,4 @@
 -
 
 ### Experiments
--
+- 

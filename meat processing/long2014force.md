@@ -1,4 +1,4 @@
-# Manufacturing technology in the Danish pig slaughter industry
+# Force/vision control for robotic cutting of soft materials
 
 ### Implementation
 
@@ -10,4 +10,4 @@
 -
 
 ### Experiments
--
+- 
