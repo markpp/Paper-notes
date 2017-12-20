@@ -11,8 +11,7 @@ with any gradient descent trained model
 - It is applicable to a variety of different
 learning problems, including classification, regression,
 and reinforcement learning.
-- The goal of meta-learning is to enable a model to learn a new task using only a small number of training
-samples.
+- The goal of meta-learning is to enable a model to learn a new task using only a small number of training samples.
 - This is achieved by making sure that the parameters of the model are in a state such that a
 few gradient steps, or even a single gradient step, can produce good results on a new task in other words the meta-learning model obtains an internal representation that is broadly suitable for many tasks.
 - Unlike prior meta-learning methods their algorithm does not expand the number of learned parameters
