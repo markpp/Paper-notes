@@ -1,12 +1,12 @@
-# Combining Self-Supervised Learning and Imitation for Vision-Based Rope Manipulation
-[arXiv](https://arxiv.org/abs/1703.02018)
+# Overcoming exploration in reinforcement learning with demonstrations
+[arXiv](https://arxiv.org/abs/1709.10089)
 
-[blog](https://ropemanipulation.github.io/)
+[blog](http://ashvin.me/demoddpg-website/)
 ### Implementation
 
 ### What
 
-- 
+-
 ### How
 -
 
