@@ -1,14 +1,14 @@
-#
-[arXiv]()
-[videos]()
-[About](../deep_learning/ho2016generative)
-### Implementation
+# Method
 
-### What
+
+### Data generation
+
+### Representation
 -
 
-### How
+### Demonstration
 -
+[Generative Adversarial Imitation Learning](../deep_learning/ho2016generative)
 
-### Experiments
+### Self-learning
 -
