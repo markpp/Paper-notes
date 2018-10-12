@@ -1,5 +1,5 @@
 #
-[arXiv](/deep_learning/ho2016generative.md)
+[arXiv]()
 [videos]()
 ### Implementation
 
