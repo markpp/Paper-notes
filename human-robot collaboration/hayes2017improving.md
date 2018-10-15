@@ -1,7 +1,15 @@
 # Improving robot controller transparency through autonomous policy explanation
 
-## 6
+## Score: 6
 
+@inproceedings{hayes2017improving,
+  title={Improving robot controller transparency through autonomous policy explanation},
+  author={Hayes, Bradley and Shah, Julie A},
+  booktitle={Proceedings of the 2017 acm/ieee international conference on human-robot interaction},
+  pages={303--312},
+  year={2017},
+  organization={ACM}
+}
 
 ### Implementation
 

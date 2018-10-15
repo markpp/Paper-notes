@@ -2,7 +2,6 @@
 [arXiv](https://arxiv.org/abs/1703.03864)
 [github](https://github.com/openai/evolution-strategies-starter)
 [blog](https://blog.openai.com/evolution-strategies/)
-[github](https://github.com/openai/evolution-strategies-starter)
 
 ### Implementation
 

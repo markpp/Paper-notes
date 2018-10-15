@@ -6,8 +6,9 @@
 ### Implementation
 
 ### What
+- Using sparse binary scores
+- Storing previous plays and changing goal for failed chases to achieve a “success”
 
-- 
 ### How
 -
 
