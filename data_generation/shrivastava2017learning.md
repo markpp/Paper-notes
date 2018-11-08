@@ -16,10 +16,16 @@
 ### Implementation
 
 ### What
--
+- Close the gap between synthetic images and real images
+- Transfer the synthesised images to a distribution that matches the real images
+
 
 ### How
--
+- Uses a method similar to GAN to improve the realism of synthesised eye gaze images while preserving the annotation information
+- Contributions include:
+  - A self-regularization term(helps pre)
+  - A local adversarial loss(makes it more difficult for the generator to cheat)
+  - Using a history of refined images to update the discriminator
 
 ### Experiments
 -
